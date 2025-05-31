@@ -1,21 +1,4 @@
-.btn-like {
-  border: none;
-  outline: none;
-  width: 2rem;
-  height: 2rem;
-  border-radius: 1rem;
-  background-size: 1.2rem;
-  background-position: center;
-  background-repeat: no-repeat;
-  cursor: pointer;
-}
-
-.btn-like--up {
-  background-color: #00e268;
-  background-image: url('img/like-up.png');
-}
-
-.btn-like--down {
-  background-color: #ff5654;
-  background-image: url('img/like-down.png');
+.container {
+  max-width: 30rem;
+  margin: 5rem auto;
 }
